@@ -1,0 +1,76 @@
+#head{
+   background-color: rgb(92, 153, 233);
+   margin-left: -7px;
+}
+#Login{
+    background-color: rgb(92, 153, 233);
+    border-radius: 80px;
+}
+#nav{
+    background-color: rgb(92, 153, 233);
+ }
+ 
+ #header{
+    background-color:rgb(92, 153, 233) ;
+    border-radius: 5px 5px 0px 0px;
+ }
+ #box{
+    width: 290px;
+    height: 300px;
+    border: 2px solid #1111;
+    border-radius: 10px;
+ }
+#box2{
+    width: 250px;
+    height: 150px;
+    border: 2px solid #1111;
+    border-radius: 10px;
+    
+ }
+ #bold{
+    text-align: start;
+    
+ }
+ #img2{
+    width: 100px;
+    align-content: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    top:30px;
+    
+ }
+ #ok{
+    color: white;
+    align-items: center;
+    background-color: rgb(141, 146, 150);
+    border-radius: 20px;
+
+ }
+ #text{
+    text-align: justify;
+ }
+ #input{
+    border: 1px;
+    padding: 10px;
+    max-width: 300px;
+
+ }
+ #userimg{
+
+    position: relative;
+    top: 5.4px;
+    right: -25px;
+ }
+ #passwordimg{
+
+    position: relative;
+    top: 5.4px;
+    right: -25px;
+ }
+ .space{
+   text-align: center;
+   padding: right 30px;
+   margin-right: 8px;
+ }
